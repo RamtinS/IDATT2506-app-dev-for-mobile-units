@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chat client</string>
+    <string name="send_button">Send</string>
+    <string name="hint_input">Write a message…</string>
+    <string name="chat_history">Chat history:</string>
+</resources>
