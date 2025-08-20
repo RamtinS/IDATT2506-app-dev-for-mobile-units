@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Movie app</string>
+    <string name="menu_next">Next</string>
+    <string name="menu_previous">Previous</string>
+    <string name="movie_image">Movie image</string>
+
+    <string-array name="movie_titles">
+        <item>The Batman</item>
+        <item>Star Wars: Episode IV - A New Hope</item>
+        <item>Iron Man</item>
+        <item>Transformers</item>
+        <item>Creed</item>
+    </string-array>
+
+    <string-array name="movie_descriptions">
+        <item>
+            When a sadistic serial killer begins murdering key political figures in Gotham,
+            The Batman is forced to investigate the city\'s hidden corruption and question
+            his family\'s involvement.
+        </item>
+        <item>
+            Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two
+            droids to save the galaxy from the Empire\'s world-destroying battle station, while
+            also attempting to rescue Princess Leia from the mysterious Darth Vader.
+        </item>
+        <item>
+            After being held captive in an Afghan cave, billionaire engineer Tony Stark creates
+            a unique weaponized suit of armor to fight evil.
+        </item>
+        <item>
+            An ancient struggle between two Cybertronian races, the heroic Autobots and the evil
+            Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.
+        </item>
+        <item>
+            The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to
+            Adonis Johnson, the son of his late friend and former rival Apollo Creed.
+        </item>
+    </string-array>
+
+    <string-array name="movie_images">
+        <item>@drawable/batman</item>
+        <item>@drawable/star_wars</item>
+        <item>@drawable/iron_man</item>
+        <item>@drawable/transformers</item>
+        <item>@drawable/creed</item>
+    </string-array>
+
+</resources>

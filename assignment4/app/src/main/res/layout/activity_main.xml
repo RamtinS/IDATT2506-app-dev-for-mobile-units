@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/linearLayout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.ntnu.idatt2506.assignment4.MainActivity">
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/listFragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:name="edu.ntnu.idatt2506.assignment4.fragments.MovieListFragment"
+        tools:layout="@layout/fragment_list" />
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/detailFragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.5"
+        android:name="edu.ntnu.idatt2506.assignment4.fragments.MovieDetailsFragment"
+        tools:layout="@layout/fragment_details" />
+
+</LinearLayout>
