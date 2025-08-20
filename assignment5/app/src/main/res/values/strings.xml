@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">assignment5</string>
+    <string name="main_activity">Guessing game</string>
+    <string name="welcome">Welcome to the guessing game</string>
+    <string name="instruction">Enter your name and card number to play</string>
+    <string name="guess_number">Guess a number</string>
+    <string name="name">Enter name…</string>
+    <string name="card_number">Enter card number…</string>
+    <string name="enter_number">Enter a number…</string>
+    <string name="submit_button">Submit</string>
+    <string name="guess_button">Guess</string>
+</resources>
