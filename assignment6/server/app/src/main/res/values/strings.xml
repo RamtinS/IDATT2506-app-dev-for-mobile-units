@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chat server</string>
+    <string name="heading">Chat server</string>
+    <string name="connected">Clients:</string>
+</resources>
