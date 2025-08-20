@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="search_type_options">
+        <item>Show all movies</item>
+        <item>Search after movies on director</item>
+        <item>Search after movies on title</item>
+        <item>Search after movies on actor</item>
+    </string-array>
+
+    <string-array name="background_color_entries">
+        <item>White</item>
+        <item>Purple</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string-array name="background_color_values">
+        <item>white</item>
+        <item>purple</item>
+        <item>blue</item>
+    </string-array>
+
+</resources>

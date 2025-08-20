@@ -1,0 +1,19 @@
+Title: Venom
+Director: Ruben Fleischer
+Actors: Tom Hardy, Michelle Williams
+
+Title: Star Wars: The Force Awakens
+Director: J.J. Abrams
+Actors: Daisy Ridley, John Boyega
+
+Title: Iron Man
+Director: Jon Favreau
+Actors: Robert Downey Jr., Gwyneth Paltrow
+
+Title: The Fall Guy
+Director: David Leitch
+Actors: Ryan Gosling, Emily Blunt
+
+Title: The Batman
+Director: Matt Reeves
+Actors: Robert Pattinson, Andy Serkis

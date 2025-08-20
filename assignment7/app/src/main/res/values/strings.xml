@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="search_bar">Write in your search…</string>
+    <string name="search_button">Search</string>
+    <string name="director">Director: </string>
+    <string name="actors">Actors: </string>
+    <string name="settings">Settings</string>
+    <string name="return_button">Return home</string>
+
+    <string name="background_color">background_color</string>
+    <string name="background_color_title">Background Color</string>
+    <string name="background_color_default_value">white</string>
+    <string name="summary">Select a background color</string>
+</resources>
